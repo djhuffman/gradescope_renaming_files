@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Thu Oct 20 17:17:28 2022
+This script contains code to rename files from gradescope to the student's 
+name. In my case, I use pseudnyms, but this is very useful for not having to
+type in each name to upload the output.
 
-@author: dhuffman
+Written by Derek J. Huffman (October 2022)
 """
 
 import os
